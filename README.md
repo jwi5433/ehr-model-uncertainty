@@ -5,8 +5,8 @@ This project aims to reproduce the core conceptual findings of the paper "Analyz
 **Original Paper:**
 Dusenberry, M. W., Tran, D., Choi, E., Kemp, J., Nixon, J., Jerfel, G., ... & Dai, A. M. (2020). Analyzing the role of model uncertainty for electronic health records. *ACM Conference on Health, Inference, and Learning (CHIL)*. (Consider adding a direct link to the paper if available, e.g., on ACM DL or arXiv).
 
-**Author:** [Your Name/GitHub Username]
-**Repository URL:** [Link to Your GitHub Repo URL Once Created]
+**Author:** John Williams/johnw13
+
 
 ## Overview
 
